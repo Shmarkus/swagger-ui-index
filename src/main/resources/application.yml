@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: swagger-ui
+server:
+  port: 8888
+
+meta:
+  title: Swagger UI
+  description: Swagger spec index
+  licence: http://www.apache.org/licenses/LICENSE-2.0.html
+  licenceUrl: http://www.apache.org/licenses/LICENSE-2.0.html
+  tosUrl: https://www.termsfeed.com/terms-service-generator/
+  version: 1.0.0
+contact:
+  name: A developer
+  url: https://google.com
+  email: ''
